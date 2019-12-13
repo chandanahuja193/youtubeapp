@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,wBAA4B,CAC5B,iBACF","file":"main.c53ef842.chunk.css","sourcesContent":["body{\n  background-color: whitesmoke;\n  overflow-x: hidden;\n}\n"]}
